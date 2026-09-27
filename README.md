@@ -2,7 +2,9 @@
 
 A simple mod for **Code Vein II** that displays collision and event-related meshes in-game.
 
-Game Version tested: v2.0.2.0.
+Game Version:
+- v2.0.2.0.
+- v2.0.3.0.
 
 ## Installation
 
